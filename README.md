@@ -42,9 +42,8 @@ To run the notebook and reproduce the analysis, the following dependencies are r
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook (`Airbnb.ipynb`) using Jupyter Notebook or JupyterLab.
-4. Run the notebook cells in sequential order to execute the code and generate the analysis results.
+2. Open the Jupyter Notebook (`Airbnb.ipynb`) using Jupyter Notebook or JupyterLab.
+3. Run the notebook cells in sequential order to execute the code and generate the analysis results.
 
 ## Results
 
@@ -54,8 +53,6 @@ The analysis provides several key findings:
 - The number of new Airbnb hosts in Paris has grown steadily over the years, with a notable increase in recent years.
 - The average Airbnb price in Paris has shown an upward trend, particularly in the later years of the analysis.
 - The introduction of regulations in 2015 appears to have had an impact on the Airbnb market, leading to a decrease in the number of new hosts and an increase in average prices.
-
-For detailed visualizations and further insights, please refer to the Jupyter Notebook.
 
 ## Contributing
 
